@@ -16,57 +16,55 @@
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
-## Regras pra mim 
-Eu criei algumas regras para mim que não quero impor a ninguém, mas fique à vontade para fazer o mesmo, se quiser!
+Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar!
 
-* Se eu não concluir o projeto do dia, as 5 primeiras pessoas a apontar no Twitter [@MilenaCarecho](https://twitter.com/MilenaCarecho) receberão R$5 via PicPay (total de R$25). Adicionando um pouco de motivação para mim! 😉 (Antes de solicitar qualquer coisa, verifique primeiro a hora no meu fuso horário - para mim, o fuso horário é Brasília - DF (GMT-3)) 💸
-* Vou criar um artigo tutorial no [medium](https://medium.com/@MilenaCarecho) para todos os projetos 
+## Desafio 01 - Ícones de redes sociais em camadas
 
+![Icone de rede sociais em camadas](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2001/social-media-sheets.gif)
 
-Gostou da ideia? 
-[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
+## Desafio 02 - Loading animado
 
-#### Youtube Referencias dos desafios
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
-[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
-[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+![Loading animado](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2002/Loading%20Screen.gif)
 
+## Desafio 03 - Botões com animações
 
+![Botões animados](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2003/Animated%20Buttons.gif)
 
+## Desafio 04 - Texto flutuante
 
-* [Dia 01 - Ícone de mídia social em camadas](#id01)
-* [Dia 02 - Loader animado](#id02)
-* [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
-* [Dia 04 - Botão com efeito](#id04)
-* [Dia 05 - Efeito pulsar](#id05)
-* [Dia 06 - Efeito lightning text](#id06)
-* [Dia 07 - Preloader animado](#id07)  
-* [Dia 08 - Coração batendo](#id08)
-* [Dia 09 - Pendulo de Newton](#id09)
-* [Dia 10 - Animação texto alternando](#id10)
-* [Dia 11 - Botão com efeito hover](#id11)
-* [Dia 12 - Efeito de preenchimento ao passar o mouse](#id12)
-* [Dia 13 - Loading com efeito](#id13)
-* [Dia 14 - Fundo de texto animado](#id14)
-* [Dia 15 - Texto flutuante](#id15)
-* [Dia 16 - Botão com efeito](#id16)
-* [Dia 17 - Loader animado](#id17)
-* [Dia 18 - Texto esfumaçado](#id18)
-* [Dia 19 - Efeitos de animação de fundo de partículas](#id19)
-* [Dia 20 - Botão com efeito](#id20)
-* [Dia 21 - Esferas quicando](#id21)
-* [Dia 22 - Icones com efeito](#id22)
-* [Dia 23 - Botão com efeito hover](#id23)
-* [Dia 24 - Preloader animado](#id24)
-* [Dia 25 - Checkbox animado](#id25)
-* [Dia 26 - Loading com efeito](#id26)
-* [Dia 27 - Efeito pulsar](#id27)
-* [Dia 28 - Cor do background mudando](#id28)
-* [Dia 29 - Menu responsivo com Media Queries](#id29)
-* [Dia 30 - Fogos de artificio](#id30)
+![Texto flutuante](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2004/Floating-text.gif)
 
+## Desafio 05 - Animação de Loading Arco-Íris
 
-##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+![Animação arco-íris](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2005/rainbow-loading.gif)
+
+## Desafio 06 - Botões de Mídia Social com Neomorfismo e Linear Gradient animado
+
+![Neomorphism Button](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2006/Neomorphism-Button.gif)
+
+## Desafio 07 - Profile Card com Glass Morphism
+
+![GlassMorphism Card](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2007/Glassmorphism-card.gif)
+
+## Desafio 08 - Botões com animações 2 (Hover Effect)
+
+![Buttons](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2008/Animated-buttons-2.gif)
+
+## Desafio 09 - Barra de carregamento de Ano Novo (Feliz 2021!)
+
+![Happy New Year](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2009/Happy-New-Year.gif)
+
+## Desafio 10 - Animação de Dia Ensolarado
+
+![Dia ensolarado](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2010/Sunny-Day.gif)
+
+## Desafio 11 - Barra de Pesquisa
+
+![Search Box](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2011/Search-Box.gif)
+
+## Desafio 12 - Pokemon Card Responsivo com Hover Effect
+
+![Pokemon Card](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2012/Pokemon-Card.gif)##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
 
