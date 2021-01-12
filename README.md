@@ -67,12 +67,9 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 ![Pokemon Card](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2012/Pokemon-Card.gif)##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
 
+## Desafio 13 - Texto animado (Saltitante)
 
-[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
-
-[Tutorial Medium]() *Ainda não disponivel*
-
-[Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
+![Bouncing Text](https://github.com/anderama/30diasdeCSS/blob/main/Desafios/Dia%2013/Bouncing-text.gif)
 
 
 ##### O que eu aprendi
@@ -86,26 +83,6 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 
 
-
-##  Desafio dia 02 - Loader animado <a name="id02"></a>
-![Dia 02](https://user-images.githubusercontent.com/37448340/88348825-d5573380-cd24-11ea-832c-989e091167b8.gif)
-
-
-[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
-
-[Tutorial Medium]() *Ainda não disponivel*
-
-[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691381608261464064/)
-
-##### O que eu aprendi
-
-* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
-
-
-
-##  Desafio dia 03 - Mudança de cor de texto quando entra em outra div <a name="id03"></a>
-
-<img src="Desafios/dia 03/gif/dia03.gif">
 
 
 [Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2003)
